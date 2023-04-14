@@ -1,5 +1,4 @@
 {
-	"installCommand":"npm install"
 	"builds": [
 		{ "src": "app.js", "use": "@vercel/node" }
 	],
